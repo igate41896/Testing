@@ -11,6 +11,7 @@ namespace ConsoleTest
         static void Main(string[] args)
         {
             var abc = "Hello world";
+            abc = abc.Trim();
         }
     }
 }
