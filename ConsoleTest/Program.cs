@@ -10,8 +10,7 @@ namespace ConsoleTest
     {
         static void Main(string[] args)
         {
-            var abc = "Hello world 1";
-            abc = abc.Trim();
+            var abc = "Hello world 12";
             abc = abc.Trim();
         }
     }
