@@ -13,7 +13,7 @@ namespace ConsoleTest
             var abc = "Hello world 12";
             abc = abc.Trim();
             abc = null;
-            abc = "Testing2";
+            abc = "Testing24";
         }
     }
 }
